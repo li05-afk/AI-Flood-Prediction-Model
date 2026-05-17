@@ -96,5 +96,6 @@ Check if the server is running.
 
 **Response:** `{ "status": "ok" }`
 
-**Author**
+### Author
+
 Sharon Lee (This took me quite a while, will reveal final grade after July 2026)
